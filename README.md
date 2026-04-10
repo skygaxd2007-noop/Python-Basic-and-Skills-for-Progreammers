@@ -28,7 +28,6 @@ This repository shows how AI tools can assist in:
 ```
 .
 ├── Generate code by AI.ipynb
-├── HELLO_AIO.ipynb
 └── README.md
 ```
 
