@@ -106,7 +106,7 @@ You can use the following tools to generate code:
 
 ## 👨‍💻 Author
 
-- Your Name
+- HuyHoang
 
 ---
 
